@@ -1,11 +1,11 @@
 gauntlt-docker
 ==============
 
-[![systemli/gauntlt](http://dockeri.co/image/systemli/gauntlt)](https://registry.hub.docker.com/u/systemli/gauntlt/)
+[![stefanvangastel/gauntlt](http://dockeri.co/image/stefanvangastel/gauntlt)](https://registry.hub.docker.com/u/stefanvangastel/gauntlt/)
 
 **Simple Docker Image to run gauntlt attacks.**
 
-	docker run --rm -it -v /path/to/attacks:/data systemli/gauntlt
+	docker run --rm -it -v /path/to/attacks:/data stefanvangastel/gauntlt
 
 Including CLI tools:
 
